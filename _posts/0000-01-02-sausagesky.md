@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our my slide!"
 ---
-This is my text, what to do a git status check
+This is my text, what to do a Git status check, this is awesome ;-)
 Use the left arrow to go back!
